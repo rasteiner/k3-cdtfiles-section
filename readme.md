@@ -8,7 +8,7 @@ Download [the latest zip](https://github.com/rasteiner/k3-cdtfiles-section/relea
 Extract the contents into a folder in your `site/plugins` folder. 
 
 ## Use
-Replace your `files` section in the blueprint with a `cdtfiles` section. Add the `dragText` property with the a query template:
+Replace your `files` section in the blueprint with a `cdtfiles` section. Add the `dragText` property with a query template:
 
 ```yaml
 sections:
